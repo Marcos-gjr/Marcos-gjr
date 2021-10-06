@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil, pode se assentar e fique a vontade para pegar um café. ☕
 
 
-- 🔭 Hoje trabalho com Costumer Success 
+- 🔭 Trabalho com Costumer Success 
 - 🌱 Estudando Engenharia de Software 
 
 
