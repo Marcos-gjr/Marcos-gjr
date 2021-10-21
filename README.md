@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil, pode se assentar e fique a vontade para pegar um café. ☕
+### Bem vindo ao meu perfil, aceita um café? ☕
 
 
 - 🔭 Trabalho com Costumer Success 
