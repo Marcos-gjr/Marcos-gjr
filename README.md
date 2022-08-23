@@ -1,8 +1,8 @@
-### Bem vindo ao meu perfil, aceita um café? ☕
+### Welcome to my profile, would you like a coffee? ☕ 
 
-
-- 🔭 Trabalho com Costumer Success 
-- 🌱 Estudando Engenharia de Software 
+- 👋 Hi, i'm Marcos Jr 
+- 🔭 I am working with costumer success 
+- 🌱 I'm currently Studying Software Engineering 
 
 
 <div align="center">
