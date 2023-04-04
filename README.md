@@ -1,7 +1,7 @@
 ### Welcome to my profile, would you like a coffee? ☕ 
 
 - 👋 Hi, i'm Marcos Jr 
-- 🔭 I am working with costumer success 
+- 🔭 I am working as a support analyst
 - 🌱 I'm currently Studying Software Engineering 
 
 
